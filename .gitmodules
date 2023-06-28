@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "rbch"]
 	path = rbch
 	url = https://github.com/rucknium/rbch
-	shallow = true
-	registered = true
