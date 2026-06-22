@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "IP"]
-	path = IP
-	url = https://github.com/rucknium/ip
 [submodule "rbch"]
 	path = rbch
 	url = https://github.com/rucknium/rbch
